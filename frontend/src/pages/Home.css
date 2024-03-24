@@ -1,0 +1,8 @@
+/* Component.css */
+.component-container {
+    background-image: url("https://assets.materialup.com/uploads/91ff8b82-5b08-4498-a057-d36b553001c3/preview.png"); /* Set the background image */
+    background-size: cover; /* Scale the background image to cover the entire container */
+    background-position: center; /* Center the background image */
+    /* Add other styles as needed */
+  }
+  

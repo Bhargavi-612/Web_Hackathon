@@ -1,0 +1,11 @@
+.footer
+{
+    position: fixed; /* Position the navbar relative to the viewport */
+    left: 0; /* Align the navbar to the left edge */
+    bottom: 0; /* Align the navbar to the bottom edge */
+    width: 100%; /* Make the navbar span the entire width of the viewport */
+    background-color: #060b26; /* Background color for the navbar */
+    color: #fff; /* Text color */
+    padding: 15px; /* Add padding for spacing */
+    height: 62px;
+}
